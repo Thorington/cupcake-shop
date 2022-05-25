@@ -1,0 +1,15 @@
+.flashy {
+  color: rgb(214, 72, 72);
+  font-style: italic;
+  font-weight: bold;
+}
+
+p {
+  color: pink
+}
+
+p.best {
+  color: green;
+  font-style: italic;
+  font-weight: bold;
+}
